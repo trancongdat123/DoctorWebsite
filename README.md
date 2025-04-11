@@ -6,13 +6,8 @@
 Xã hội ngày càng phát triển, trong khi môi trường sống ngày càng ô nhiễm, sức khỏe con người cũng đối mặt với nhiều nguy cơ bệnh tật hơn. Minh chứng là những dịch bệnh trong các năm gần đây như Covid-19, bệnh đậu mùa khỉ, … Vì nhu cầu khám chữa bệnh hiện nay rất lớn, nhưng số lượng bệnh viện lại không đủ đáp ứng nhu cầu đó, nên ngày càng nhiều phòng khám tư được mở ra. Do đó nhu cầu để có ứng dụng web để quản lý cũng trở nên thiết yếu.
 
 ## Nhóm 21 - Group 21
-20120454-Lê Công Đắt
+22010185 - Trần Công Đạt
 
-20120490-Hoàng Hải Hưng
-
-20120493-Huỳnh Trần Quang Huy
-
-20120495-Lê Xuân Huy
 
 ## Local installation - Cài đặt để chạy local
 Đầu tiên tải project về:
